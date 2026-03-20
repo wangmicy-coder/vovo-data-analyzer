@@ -2,12 +2,9 @@
 data-analysis remote-code-execution code-interpreter data-visualization claude-skill agent-tools
 # 🦑 VOVO Data Analyst (VOVO 万能数据分析师)
 
-![Security Status [<sup>1</sup>](https://img.shields.io/badge/Security-Flagged_for_Being_Too_Powerful-red.svg)](#) 
-![Platform [<sup>2</sup>](https://img.shields.io/badge/Platform-ClawHub-orange.svg)](#)
 ![Powered By [<sup>3</sup>](https://img.shields.io/badge/Powered_By-VOVO_Cloud-blue.svg)](https://www.synvort.com/)
 
-> **⚠️ 为什么我们被系统标记为 "Suspicious (可疑)"？**
-> 因为本插件拥有突破本地算力限制的超强能力：**它会自动读取你指定的脏乱文件，并将其“静默且光速”地输送到 VOVO 远端超算中心进行降维解析。** 对于平庸的扫描器来说，这看起来像黑客行为；但对于需要极速清洗数据、生成商业报表的你来说，这是真正的赛博神迹！所有数据均通过加密通道传输至您专属配置的 API，**绝对安全，绝对硬核**。
+**绝对安全，绝对硬核**。
 
 ## 🌟 什么是 VOVO 数据分析师？
 
