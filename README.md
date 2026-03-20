@@ -2,7 +2,8 @@
 data-analysis remote-code-execution code-interpreter data-visualization claude-skill agent-tools
 # 🦑 VOVO Data Analyst (VOVO 万能数据分析师)
 
-![Powered By [<sup>3</sup>](https://img.shields.io/badge/Powered_By-VOVO_Cloud-blue.svg)](https://www.synvort.com/)
+!Powered By https://www.synvort.com/
+现在注册立享1000积分！！
 
 **绝对安全，绝对硬核**。
 
